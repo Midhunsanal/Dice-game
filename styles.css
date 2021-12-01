@@ -20,6 +20,7 @@
 }
 
 .container-fluid {
+  height: auto;
   padding-top: 0;
   text-align: center;
   background-color: #393E46;
