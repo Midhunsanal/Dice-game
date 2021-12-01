@@ -20,7 +20,6 @@
 }
 
 .container-fluid {
-  height: auto;
   padding-top: 0;
   text-align: center;
   background-color: #393E46;
@@ -44,7 +43,7 @@ img {
   width: 80%;
 }
 
-.footer {
+footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
